@@ -1,3 +1,3 @@
 # Personal Site
 
-## Steven Hunt
+## Martyn Kucharski
